@@ -3,7 +3,7 @@ package topsdk_test
 import (
 	"fmt"
 	"testing"
-	"github.com/topsdk"
+	"github.com/xiunew/topsdk"
 )
 
 func TestTbkItemRecommendGetParam(t *testing.T) {
