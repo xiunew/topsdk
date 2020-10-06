@@ -4,7 +4,7 @@ import (
 	"crypto/md5"
 	"encoding/hex"
 	"fmt"
-	"github.com/topsdk/httpclient"
+	"github.com/xiunew/topsdk/httpclient"
 	"net/url"
 	"sort"
 	"strings"
